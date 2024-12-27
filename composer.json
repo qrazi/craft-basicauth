@@ -23,7 +23,7 @@
   },
   "require": {
     "craftcms/cms": "^4.0.0-alpha.1",
-    "symfony/http-foundation":  "^5.3.1",
+    "symfony/http-foundation":  "^5.4|^6.0|^7.0",
     "ext-json": "*"
   },
   "autoload": {
